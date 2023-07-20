@@ -1,0 +1,2 @@
+# ilkodev
+ bootstrap ilk ödev
